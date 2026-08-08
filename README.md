@@ -2,8 +2,6 @@
 
 Browser photobooth controlled by hand gestures. No install, no backend.
 
-Based on [mishu006/Puzzle](https://github.com/mishu006/Puzzle). UI in English.
-
 ## What it does
 
 Uses your hands as a photo frame, captures that area, turns it into a 3x3 black-and-white puzzle, and lets you solve it with pinch gestures.
