@@ -1,0 +1,2 @@
+#!/bin/sh
+sed -i '/^Co-authored-by: Cursor/d;/^Co-authored-by: cursoragent/d;/cursoragent@cursor.com/d' "$1"
